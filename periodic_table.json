@@ -1,0 +1,25 @@
+[
+    {"periodic_table" : [
+        {"atomic_number" : 1, "name" : "Hydrogen", "symbol" : "H" , "period" : 1, "group" : 1, "phase" : 2, "name_ja" : "水素"},
+        {"atomic_number" : 2, "name" : "Helium", "symbol" : "He", "period" : 1, "group" : 18, "phase" : 2, "name_ja" : "ヘリウム"},
+        {"atomic_number" : 3, "name" : "Lithium", "symbol" : "Li", "period" :2 , "group" : 1, "phase" : 0, "name_ja" : "リチウム"},
+        {"atomic_number" : 4, "name" : "Beryllium", "symbol" : "Be", "period" :2 , "group" : 2, "phase" : 0, "name_ja" : "ベリリウム"},
+        {"atomic_number" : 5, "name" : "Boron", "symbol" : "B", "period" :2 , "group" : 13, "phase" : 0, "name_ja" : "ホウ素"},
+        {"atomic_number" : 6, "name" : "Carbon", "symbol" : "C", "period" :2 , "group" : 14, "phase" : 0, "name_ja" : "炭素"},
+        {"atomic_number" : 7, "name" : "Nitrogen", "symbol" : "N", "period" :2 , "group" : 15, "phase" : 2, "name_ja" : "窒素"},
+        {"atomic_number" : 8, "name" : "Oxygen", "symbol" : "O", "period" : 2, "group" : 16, "phase" : 2, "name_ja" : "酸素"},
+        {"atomic_number" : 9, "name" : "Fluorine", "symbol" : "F", "period" : 2, "group" : 17, "phase" : 2, "name_ja" : "フッ素"},
+        {"atomic_number" : 10, "name" : "Neon", "symbol" : "Ne", "period" : 2, "group" : 18, "phase" : 2, "name_ja" : "ネオン"},
+        {"atomic_number" : 11, "name" : "Sodium", "symbol" : "Na", "period" : 3, "group" : 1, "phase" : 0, "name_ja" : "ナトリウム"},
+        {"atomic_number" : 12, "name" : "Magnesium", "symbol" : "Mg", "period" : 3, "group" : 2, "phase" : 0, "name_ja" : "マンガン"},
+        {"atomic_number" : 13, "name" : "Aluminum", "symbol" : "Al", "period" : 3, "group" : 13, "phase" : 0, "name_ja" : "アルミニウム"},
+        {"atomic_number" : 14, "name" : "Silicon", "symbol" : "Si", "period" : 3, "group" : 14, "phase" : 0, "name_ja" : "ケイ素"},
+        {"atomic_number" : 15, "name" : "Phosphorus", "symbol" : "P", "period" : 3, "group" : 15, "phase" : 0, "name_ja" : "リン"},
+        {"atomic_number" : 16, "name" : "Sulfur", "symbol" : "S", "period" : 3, "group" : 16, "phase" : 0, "name_ja" : "硫黄"},
+        {"atomic_number" : 17, "name" : "Chlorine", "symbol" : "Cl", "period" : 3, "group" : 17, "phase" : 2, "name_ja" : "塩素"},
+        {"atomic_number" : 18, "name" : "Argon", "symbol" : "Ar", "period" : 3, "group" : 18, "phase" : 2, "name_ja" : "アルゴン"},
+        {"atomic_number" : 19, "name" : "Potassium", "symbol" : "K", "period" : 4, "group" : 1, "phase" : 0, "name_ja" : "カリウム"},
+        {"atomic_number" : 20, "name" : "Calcium", "symbol" : "Ca", "period" : 4, "group" : 2, "phase" : 0, "name_ja" : "カルシウム"}
+    ]},
+    {"phase" : ["solid", "liquid", "gas"]}
+]
